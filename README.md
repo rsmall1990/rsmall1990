@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan - I'm an investment and technology program manager for a boutique consulting company.
 - 👀 I’m interested in leveraging technology to increase worker productivity - especially non-devs and the less tech savvy
-- 🌱 I’m currently learning Python web development to supplement my data science background
+- 🌱 I’m currently learning Python web development to supplement my data science background, this repo acts as my sandbox
 - 💞️ I’m looking to collaborate on startups needing a mix of technical talent, financial accumen, and strategic leadership
 - 📫 Reach me on LinkedIn at https://www.linkedin.com/in/ryan-small/
 
